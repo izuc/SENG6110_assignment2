@@ -1,0 +1,24 @@
+Lambton:
+
+Name: chocolate
+demand rate: 50
+setup cost: 200
+unit cost: 5.2
+inventory cost: 2
+selling price: 3
+
+Name: cake
+demand rate: 50
+setup cost: 300
+unit cost: 4
+inventory cost: 2
+selling price: 3.1
+
+Callaghan:
+
+Name: coffee
+demand rate: 100
+setup cost: 200.5
+unit cost: 4
+inventory cost: 2.1
+selling price: 2
